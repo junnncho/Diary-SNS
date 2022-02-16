@@ -1,0 +1,24 @@
+/* 카드 밑에 버튼 투명하게*/
+.ant-card-actions{
+    background-color: rgba(255,255,255,0);
+    border: 0px;
+  }
+/* 로그인창 제목 */
+.fontset_logintitle {
+    font-size: 100px;
+    font-family: 'Caveat','Nanum Pen Script',cursive;
+  }
+/* 내 글 포스트잇 글씨 폰트 크기 */
+.fontset_mypostcontents {
+    font-size: 20px;
+    color: black;
+    font-family: 'Caveat','Nanum Pen Script',cursive;
+}
+/* 카드양식안에 글씨 검정 */
+.ant-card-meta-description  {
+  color: black;
+}
+
+.login_input:focus {
+  outline: none;
+}
